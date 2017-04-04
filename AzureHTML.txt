@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Hello Azure</title>
+</head>
+<body><h2>hellooo..FTP Azure</h2>
+</body>
+</html>
+
